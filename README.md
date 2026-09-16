@@ -1,6 +1,8 @@
 # E-Commerce Data Platform on Databricks
 
 A medallion-architecture (Bronze / Silver / Gold) data pipeline built on Databricks that ingests raw e-commerce CSV data, cleanses and transforms it through multiple layers, and produces BI-ready dimensional and fact tables for analytics and dashboarding.
+<img width="2245" height="1278" alt="image" src="https://github.com/user-attachments/assets/e0ecd67e-36f3-451f-b4a2-535a08cfe2a9" />
+
 
 ## Table of Contents
 
